@@ -2,7 +2,7 @@
 html,and advanced css Map with popups describing the weather .
 A Namibian Weather Tooltips Application.
 
-An interactive web application displaying weather information for various regions in Namibia through custom-designed, I have not done all regions yet but I will continue to improve it.It was a project I did a year back I also still need to make it responsive 
+An interactive web application displaying weather information for various regions in Namibia through custom-designed, I have not done all regions yet but I will continue to improve it.It was a project I did a year back I also still need to make it responsive and soon intergrate an api 
 
 ## Key Features
 
